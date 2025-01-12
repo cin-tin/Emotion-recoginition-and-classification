@@ -83,7 +83,7 @@ Virtual meetings have become a ubiquitous tool for professional and personal com
   - **Confusion Matrix**:
     ![Confusion Matrix](examples/confusion_matrix.png)
   - **Accuracy Graph**:
-    ![Accuracy Graph](examples/accuracy.png)
+    ![Accuracy Graph](examples/accuracy.jpg)
   - **Loss Graph**:
     ![Loss_Graph](examples/loss.png)
 
