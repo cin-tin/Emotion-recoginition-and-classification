@@ -79,6 +79,15 @@ Virtual meetings have become a ubiquitous tool for professional and personal com
 | **Neutral**   | ![Neutral](examples/2.png)    |
 
 
+- **Performance Metrics**:
+  - **Confusion Matrix**:
+    ![Confusion Matrix](examples/confusion_matrix.png)
+  - **Accuracy Graph**:
+    ![Accuracy Graph](examples/accuracy.png)
+  - **Loss Graph**:
+    ![Loss_Graph](examples/loss.png)
+
+
 
 ## References
 
@@ -95,7 +104,6 @@ If you use this work in your research or projects, please cite:
 @misc{video-conferencing-fer,
   author = { Cindrella S.K, Afridha M., Anvita Ashokkumar},
   title = {Video Conferencing Meet Analytics Using Facial Emotion Recognition},
-  year = {2023},
-  howpublished = {\url{https://github.com/yourusername/video-conferencing-fer}}
+  year = {2021},
 }
 
